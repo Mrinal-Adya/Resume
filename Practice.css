@@ -1,0 +1,28 @@
+.my-flex-container{
+         
+           height: 100px;
+   
+          
+           margin: 10px;
+           align-items: center;
+            
+       }
+       .my-flex-item{
+           background-color: gray;
+           text-decoration-color: black;
+           border: 1px dotted grey;
+           height: 40px; 
+           margin: auto;
+           text-align: center;
+         
+           }
+hr.rounded{
+    border-top: 8px solid #bbb;
+  border-radius: 5px
+}
+.checked {
+  color: orange;
+}
+img {
+  border-radius: 50px;
+}
